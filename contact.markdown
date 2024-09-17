@@ -5,6 +5,6 @@
 ** You can contact me: ** 
  https://github.com/sonia02020202
 
- ## [Home](/index.markdownindex) | [project](/project.markdownproject) | [contact](/contact.markdown)
+ ## [Home](index.markdown) | [project](project.markdown) | [contact](contact.markdown)
 
 Sonia
