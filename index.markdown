@@ -12,5 +12,5 @@ Things that I like:
 - Cats
 
 ## images
-[!alt text](Kitten1.jpg")
+![alt text](Kitten1.jpg)
 
