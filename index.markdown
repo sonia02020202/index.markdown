@@ -12,6 +12,5 @@ I enjoy learning new things on a daily basis.
  
 ## ![alt text](Kitten1.jpg)
 
-## [Home](/index.markdown)
-## [project](project)
-## [contact](contact)
+## [Home](/index.markdown) [project](project) [contact](contact)
+
