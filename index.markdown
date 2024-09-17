@@ -5,11 +5,10 @@ I enjoy learning new things on a daily basis.
 
 ## Things that I like:
 
-## List
+## 
 - Butterflies
 - Pizza
 - Cats
-
-## images
-![alt text](Kitten1.jpg)
+ 
+## ![alt text](Kitten1.jpg)
 
